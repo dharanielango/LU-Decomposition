@@ -2,7 +2,7 @@
 
 # LU Decomposition 
 
-## 5A
+## 5A) To find the L and U matrix
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
@@ -33,7 +33,7 @@ Get P,L,U matrix using lu().
 Print L and U matrix.
 
 ## Program:
-(i) To find the L and U matrix
+
 ```
 /*
 '''Program to find L and U matrix using LU decomposition.
@@ -56,7 +56,7 @@ print(U)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
-## 5B
+## 5B) To find the LU Decomposition of a matrix
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
@@ -90,9 +90,8 @@ Find solution of the matrix by using lu_solve() by passing lu,pivot values as fi
 
 Print the solution.
 
+## Program
 
-
-(ii) To find the LU Decomposition of a matrix
 ```
 /*'''Program to solve a matrix using LU decomposition.
 Developed by: Dharani.E
