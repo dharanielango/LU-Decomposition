@@ -13,18 +13,23 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 ->Step 1:
+
 import numpy library using import statement.
 
 ->Step 2:
+
 From scipy package import lu().
 
 ->Step 3:
+
 Get input from user and pass it as an array.
 
 ->Step 4: 
+
 Get P,L,u matrix using lu().
 
 ->Step 5:
+
 Print L and U matrix.
 
 ## Program:
@@ -62,21 +67,27 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 ->Step 1:
+
 import numpy library using import statement.
 
 ->Step 2:
+
 From scipy package import lu_factor() and lu_solve().
 
 ->Step 3:
+
 Get two inputs from user and pass it as matrix array.
 
 ->Step 4: 
+
 Find lu and pivot value of first matrix using lu_factor().
 
 ->Step 5:
+
 Find solution of the matrix by using lu_solve() by passing lu,pivot values as first argument and second matrix as second argument.
 
 ->Step 6:
+
 Print the solution.
 
 
